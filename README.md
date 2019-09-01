@@ -24,6 +24,7 @@ Step 4. Explore possible types of dependence between one-minute counts and tempe
          
          b. GLM Count Regression
 
+![Alt text](Copula.png?raw=true "Copula.png")
 
 # Professor
 
